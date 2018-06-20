@@ -3,15 +3,7 @@ Rebol[Auteur: JJV]
 
 ;Ligne de Commentaire
 
-Des variables
+>> print "Bonjour les Codeurs Codeuses !"
+Bonjour les Codeurs Codeuses !
 
->> a: 42
-== 42
->> foo-bar: a
-== 42
->> a + foo-bar
-== 84
->> c: d: e: 14
-== 14
->> a + (z: 32)
-== 74
+Affiche les messages, pratique lors de l'éxécution de plusieurs programmes, l' éxécution s'affiche sous vos yeux.
