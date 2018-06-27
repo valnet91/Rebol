@@ -19,4 +19,4 @@ mettez des parenthèses
 == 30
 >> 12 + (3 * 2)
 == 18
->>Donc attention, sachez que mettre les () vous saez ce que vous faites.
+>>Donc attention, sachez que mettre les () vous savez ce que vous faites.
