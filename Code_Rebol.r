@@ -1,16 +1,17 @@
 Rebol[Auteur: JJV]
 
 
-Des calculs
+;Ligne de Commentaire
 
->> 40 + 2
+Des variables
+
+>> a: 42
 == 42
->> 545 - 2342 + 12
-== -1785
->> 2 * 3
-== 6
->> 2 ** 16
-== 65536.0
-
-Testez l'exemple suivant : 12 + 3 * 2. Surprise ! Rebol ne gère pas la priorité des opérateurs !
-mettez des parenthèses
+>> foo-bar: a
+== 42
+>> a + foo-bar
+== 84
+>> c: d: e: 14
+== 14
+>> a + (z: 32)
+== 74
