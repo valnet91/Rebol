@@ -14,9 +14,3 @@ Des calculs
 
 Testez l'exemple suivant : 12 + 3 * 2. Surprise ! Rebol ne gère pas la priorité des opérateurs !
 mettez des parenthèses
-
->> 12 + 3 * 2
-== 30
->> 12 + (3 * 2)
-== 18
->>Donc attention, sachez que mettre les () vous savez ce que vous faites.
